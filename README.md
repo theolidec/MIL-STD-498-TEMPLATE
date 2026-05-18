@@ -7,7 +7,6 @@
 3. Fill out `CDRL.md` to select which DIDs apply to your project
 4. Delete any DID document folders/files that do not apply
 5. Fill in `[PROJECT NAME]`, `[DATE]`, and other placeholders in each document
-6. Follow the workflow in `.windsurf/workflows/mil-std-498.md`
 
 ## Directory Structure
 
